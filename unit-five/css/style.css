@@ -1,0 +1,18 @@
+div.container {
+    padding-top: 60px;
+}
+
+section.container {
+    color: white;
+}
+
+.navbar-inverse {
+    background: rgb(54, 26, 90);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a {
+    color: white;
+}
