@@ -6,13 +6,11 @@ section.container {
     color: white;
 }
 
-.navbar-inverse {
-    background: rgb(54, 26, 90);
+.navbar-default {
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
     
 }
 
-a {
-    color: white;
+.btn-primary {
+    font-weight: bold;
 }
